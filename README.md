@@ -1,3 +1,3 @@
 # Logos
 
-![Basic]()
+![Basic](Advanced-Industries-Logo-Medium.png)
